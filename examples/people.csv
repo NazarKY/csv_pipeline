@@ -1,0 +1,6 @@
+name,email,country
+Alice Smith,  ALICE@Example.COM ,germany
+,bob@example.com,france
+Carlos,not-an-email,spain
+Frank,   ,
+Dana,dana@example.com,  italy
