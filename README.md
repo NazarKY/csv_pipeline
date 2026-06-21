@@ -188,7 +188,3 @@ examples/people.csv            sample data: valid and invalid rows
 examples/run.rb                runnable demo
 spec/                          RSpec suite
 ```
-
-## License
-
-MIT
